@@ -1,0 +1,33 @@
+{
+    "name": "vite-test-1",
+    "license": "MIT",
+    "version": "0.0.0",
+    "scripts": {
+        "start": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "@types/lodash-es": "^4.17.4",
+        "@varlet/ui": "^1.7.1",
+        "@vitejs/plugin-vue": "^1.1.0",
+        "@vueuse/core": "^4.0.8",
+        "@vueuse/integrations": "^4.0.8",
+        "axios": "^0.21.1",
+        "better-mock": "^0.3.1",
+        "lodash-es": "^4.17.20",
+        "moment": "^2.29.1",
+        "monaco-editor": "^0.21.3",
+        "vue": "^3.1.2",
+        "vue-request": "^1.2.0",
+        "vue-router": "^4.0.1",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@types/node": "^14.14.22",
+        "@vue/compiler-sfc": "^3.0.5",
+        "babel-plugin-import": "^1.13.3",
+        "postcss-px-to-viewport": "^1.1.1",
+        "prettier": "2.2.1",
+        "vite": "^2.3.8"
+    }
+}
